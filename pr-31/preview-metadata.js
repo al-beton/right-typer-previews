@@ -15,8 +15,8 @@ label.id='build-version';label.setAttribute('aria-label','App version');
 label.style.cssText='font-size:12px;color:inherit;white-space:nowrap';
 const pr=document.createElement('a');pr.href='https://github.com/al-beton/right-typer/pull/31';
 pr.textContent='Review PR #31';pr.style.color='inherit';
-const commit=document.createElement('a');commit.href='https://github.com/al-beton/right-typer/commit/f2fc9ec6ad5373c171f598d9e18dddd5354aab73';
-commit.textContent='f2fc9ec';commit.title='f2fc9ec6ad5373c171f598d9e18dddd5354aab73';commit.style.color='inherit';
+const commit=document.createElement('a');commit.href='https://github.com/al-beton/right-typer/commit/651e084c53b55ea2fc933541290460c01f9187ad';
+commit.textContent='651e084';commit.title='651e084c53b55ea2fc933541290460c01f9187ad';commit.style.color='inherit';
 label.replaceChildren(pr,' · ',commit);
 const footer=document.querySelector('footer');
 if(footer){footer.style.flexWrap='wrap';footer.append(label)}
