@@ -12,7 +12,7 @@ import{r as e}from"./style-DEjqXYj6.js";var t=[`left-little`,`left-ring`,`left-m
         <p>The requested red / orange / yellow / green / lilac / blue / purple / pink order follows the eight fingers. Current tokens render rose at “red” and cyan at “lilac”; these examples preserve the actual keyboard colours.</p>
         <p>Pastel fills alone have low contrast on the app’s #fafafa background. Options 01, 02 and 04 use an ink outline; 03 keeps the text in ink and the colours as decoration.</p>
       </section>
-      <footer><span>Review only · Editable CSS typography</span><span id="build-version" aria-label="App version">Build · <a href="https://github.com/al-beton/right-typer/commit/211c3d0df0e2839fe5888e63f7dd403925e00b57">211c3d0</a></span></footer>
+      <footer><span>Review only · Editable CSS typography</span><span id="build-version" aria-label="App version">Build · <a href="https://github.com/al-beton/right-typer/commit/c19707d10ca4cbfaf017c70381ff77c4056c8b24">c19707d</a></span></footer>
     </main>`;let o=e.querySelector(`#wm-name`),s=()=>{o.value=a,e.querySelector(`.wm-grid`).innerHTML=n.map(([e,t,n,i])=>`
       <article class="wm-card"><div class="wm-card-title"><span>${e}</span><h2>${t}</h2></div>
       <div class="wm-large">${r(a,n)}</div>
